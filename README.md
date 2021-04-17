@@ -1,2 +1,2 @@
 # new-beginning
-Starting coing
+Starting coding
